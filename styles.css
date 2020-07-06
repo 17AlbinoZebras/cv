@@ -1,6 +1,5 @@
 body {
   background-color: #abedd8;
-  text-align: center;
   color: #48466d;
   font-family: "cursive", "Comic Sans MS", sans-serif;
 }
@@ -15,5 +14,9 @@ hr {
   border-top-style: dotted;
   border-width: 7px;
   height: 0;
-  width: 5%;
+  width: 70%;
+}
+
+.shaysOpinions {
+  font-family: "Amarante";
 }
