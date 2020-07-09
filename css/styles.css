@@ -1,0 +1,24 @@
+body {
+  background-color: #abedd8;
+  color: #48466d;
+  font-family: "cursive", "Comic Sans MS", sans-serif;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+hr {
+  border-color: #46cdcf;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  height: 0;
+  width: 70%;
+}
+
+.shaysOpinions {
+  font-family: "Amarante";
+  margin-left:auto;
+  margin-right:auto;
+}
