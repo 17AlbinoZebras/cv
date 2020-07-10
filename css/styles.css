@@ -5,6 +5,10 @@ body {
   text-align: center;
 }
 
+img{
+  border-radius: 30px;
+}
+
 ul {
   list-style-position: inside;
 }
@@ -18,8 +22,16 @@ hr {
   width: 70%;
 }
 
+
+/***********CLASSES***********/
+
 .shaysOpinions {
   font-family: "Amarante";
   margin-left:auto;
   margin-right:auto;
+}
+
+
+.squircle {
+  border-radius: 200px;
 }
