@@ -7,6 +7,8 @@ body {
 
 img{
   border-radius: 30px;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 ul {
@@ -34,4 +36,8 @@ hr {
 
 .squircle {
   border-radius: 200px;
+}
+
+.weirdQuiz{
+  visibility: hidden;
 }
