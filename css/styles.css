@@ -22,11 +22,22 @@ hr {
 
 
 /***********CLASSES***********/
+.moved-message{
+  background-color: pink;
+  padding-bottom: 2rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.new-link:hover{
+  color: #fff;
+}
+
 
 .shaysOpinions {
   font-family: "Amarante";
-  margin-left:auto;
-  margin-right:auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -34,8 +45,7 @@ hr {
   border-radius: 200px;
 }
 
-/*
+
 .weirdQuiz{
   visibility: hidden;
 }
-*/
